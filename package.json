@@ -1,0 +1,15 @@
+{
+  "name": "remote-file-watcher",
+  "version": "1.0.0",
+  "description": "Watches file on remote system",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shreyas",
+  "license": "ISC",
+  "dependencies": {
+    "logger": "0.0.1",
+    "ssh2-sftp-client": "^4.3.1"
+  }
+}
